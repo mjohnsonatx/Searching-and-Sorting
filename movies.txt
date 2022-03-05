@@ -1,0 +1,29 @@
+1
+Pulp Fiction
+1994/10/14
+8.9
+
+2
+The Godfather
+1972/04/24
+9.2
+
+3
+The Dark Knight
+2008/07/18
+9.0
+
+4
+The Godfather: Part II
+1974/12/18
+9.0
+
+6
+The Shawshank Redemption
+1994/10/14
+9.3
+
+7
+Schindler's List
+1994/02/04
+8.9
