@@ -1,9 +1,5 @@
 // File name: PA#2
-// Author: Michael Johnson
-// Collaborators: Carson Holland, Mon Villafuerte Langford
 // Date: 09/23/2020
-// Assignment Number: 2
-// C S 2308 Fall 2020
 
 // This program allows a user to interact with a movie database that contains
 // the name, date of release, and user rating of each movie. The user has the
